@@ -1,0 +1,18 @@
+
+.App {
+    text-align: center;
+}
+  .content {
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    color: #1100ff;
+  }
+  button{
+    color: #ff0303;
+    background-color: rgb(251, 255, 0);
+    border: 2px solid #2bff00;
+    
+  }
